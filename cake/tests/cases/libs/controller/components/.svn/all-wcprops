@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components
+END
+acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/acl.test.php
+END
+auth.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/auth.test.php
+END
+session.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/session.test.php
+END
+request_handler.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/request_handler.test.php
+END
+email.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/email.test.php
+END
+security.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/security.test.php
+END
+cookie.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/controller/components/cookie.test.php
+END

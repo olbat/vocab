@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/app/controllers
+END
+exact_match_trainings_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/app/controllers/exact_match_trainings_controller.php
+END
+trainings_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/app/controllers/trainings_controller.php
+END
+translations_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/app/controllers/translations_controller.php
+END
+proposition_trainings_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/app/controllers/proposition_trainings_controller.php
+END
+vocabulary_lists_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/app/controllers/vocabulary_lists_controller.php
+END

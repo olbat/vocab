@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/view.ctp
+END
+mobile_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/mobile_index.ctp
+END
+edit_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/edit_view.ctp
+END
+auto_complete.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/auto_complete.ctp
+END
+mobile_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/mobile_view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/app/views/vocabulary_lists/add.ctp
+END

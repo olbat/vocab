@@ -1,0 +1,154 @@
+html, body {
+	font: 12px/15px sans-serif;
+	-webkit-text-size-adjust: none;
+	background: #f4efd2;
+	padding: 0px;
+	color: #000;
+	margin: 0;
+	font-family:Helvetica, Arial, Verdana, sans-serif;
+}
+
+div{
+	clear:both!important;
+	display:block!important;
+	width:100%!important;
+	float:none!important;
+	margin:0!important;
+	padding:0!important;
+}
+
+.center {
+	width: 100% !important;
+	text-align: center;
+}
+a {
+  color: #105CB6;
+  cursor: pointer;
+  outline: none !important;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #105CB6;
+}
+a:hover, a:focus {
+  color: #003;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #000;
+}
+
+#wrapper{
+	width:auto;
+	overflow:hidden;
+}
+
+div#page table {
+	width: 100%;
+}
+
+div#page table tr td, div#page table th {
+	padding: 0.1em 0.3em;
+}
+
+div#page table tr:hover td, div#page table tr.odd:hover td {
+	background-color: #fff999;
+}
+
+div#page table tr.light td, div#page table tr.light th {
+	background-color: #dedede;
+}
+
+div#page table.no_effect tr:hover td, div#page table.no_effect tr.odd:hover td {
+	background-color: transparent;
+}
+
+div#page table tr.odd td {
+	background-color: #f0f0f0;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+div#page table tr td.num {
+	font-weight: bold;
+	width: 1px;
+}
+
+div#page table th {
+	text-align: left;
+	color: #333;
+	background-color: #8c3b28;
+	color: white;
+	border-bottom: 1px solid #404c5b;
+}
+
+div#page {
+	background-color: #f4efd2;
+}
+
+label {
+  display: inline;
+}
+
+div.labelinline label {
+  display: inline;
+}
+
+input[type=radio] {
+  display: inline;
+  margin-left: 12px;
+  margin-right: 4px;
+}
+
+fieldset {
+	margin: 0px;
+	padding: 0px;
+}
+
+div#header {
+  background: url(../img/header_bg.png) repeat-x top left #642515;
+  height: 128px;
+}
+
+div#page {
+  background: url(../img/tl.gif) no-repeat left top white;
+  margin-top: 10px !important;
+  padding-top: 4px !important;
+/*  
+  margin-right: 1px !important;
+  margin-left: 1px !important;
+  padding-left: 2px !important;
+*/
+}
+
+div#pagecontent {
+}
+
+div#page div.tr {
+  margin: 0 0 0 5px;
+  height: 5px;
+  background: url(../img/tr.gif) no-repeat right top transparent;
+}
+
+div#page div.bl {
+  background: url(../img/bl.gif) no-repeat left bottom transparent;
+}
+
+div#page div.br {
+  margin: 0 0 0 5px;
+  height: 5px;
+  background: url(../img/br.gif) no-repeat right bottom transparent;
+}
+
+div#footer p {
+  font-size: 1em;
+  text-align: center;
+}
+
+div#footer p span {
+  font-size: 0.8em;
+  color: #333;
+}
+@media screen and (max-device-width: 480px){}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cake/tests/test_app/models
+END
+persister_two.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/cake/tests/test_app/models/persister_two.php
+END
+persister_one.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/cake/tests/test_app/models/persister_one.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cake/tests/test_app/models/comment.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/cake/tests/test_app/models/post.php
+END

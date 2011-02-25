@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/cake/libs
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cake/libs/error.php
+END
+overloadable_php4.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cake/libs/overloadable_php4.php
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cake/libs/validation.php
+END
+flay.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cake/libs/flay.php
+END
+overloadable_php5.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cake/libs/overloadable_php5.php
+END
+set.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/cake/libs/set.php
+END
+class_registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cake/libs/class_registry.php
+END
+overloadable.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cake/libs/overloadable.php
+END
+xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/cake/libs/xml.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cake/libs/cache.php
+END
+cake_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cake/libs/cake_log.php
+END
+object.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cake/libs/object.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cake/libs/string.php
+END
+security.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cake/libs/security.php
+END
+l10n.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cake/libs/l10n.php
+END
+folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cake/libs/folder.php
+END
+multibyte.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cake/libs/multibyte.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cake/libs/i18n.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/cake/libs/file.php
+END
+router.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cake/libs/router.php
+END
+configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cake/libs/configure.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cake/libs/session.php
+END
+debugger.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cake/libs/debugger.php
+END
+magic_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cake/libs/magic_db.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cake/libs/inflector.php
+END
+sanitize.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cake/libs/sanitize.php
+END
+http_socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cake/libs/http_socket.php
+END
+socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/cake/libs/socket.php
+END

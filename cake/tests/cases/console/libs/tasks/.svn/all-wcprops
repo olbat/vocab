@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/cake/tests/cases/console/libs/tasks
+END
+test.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/cake/tests/cases/console/libs/tasks/test.test.php
+END
+extract.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cake/tests/cases/console/libs/tasks/extract.test.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/behaviors
+END
+translate.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/behaviors/translate.test.php
+END
+acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/behaviors/acl.test.php
+END
+containable.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/behaviors/containable.test.php
+END
+tree.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/behaviors/tree.test.php
+END

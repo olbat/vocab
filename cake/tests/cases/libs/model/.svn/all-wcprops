@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model
+END
+model_read.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/model_read.test.php
+END
+behavior.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/behavior.test.php
+END
+model.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/model.test.php
+END
+schema.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/schema.test.php
+END
+model_delete.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/model_delete.test.php
+END
+model_integration.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/model_integration.test.php
+END
+db_acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/db_acl.test.php
+END
+models.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/models.php
+END
+model_validation.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/model_validation.test.php
+END
+model_write.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/cake/tests/cases/libs/model/model_write.test.php
+END

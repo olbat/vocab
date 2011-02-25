@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/vendors/simpletest/test
+END
+all_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/all_tests.php
+END
+parser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/parser_test.php
+END
+user_agent_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/user_agent_test.php
+END
+shell_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/shell_tester_test.php
+END
+xml_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/xml_test.php
+END
+mock_objects_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/mock_objects_test.php
+END
+unit_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/unit_tests.php
+END
+visual_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/visual_test.php
+END
+web_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/web_tester_test.php
+END
+shell_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/shell_test.php
+END
+compatibility_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/compatibility_test.php
+END
+tag_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/tag_test.php
+END
+page_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/page_test.php
+END
+errors_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/errors_test.php
+END
+authentication_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/authentication_test.php
+END
+adapter_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/adapter_test.php
+END
+exceptions_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/exceptions_test.php
+END
+parse_error_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/parse_error_test.php
+END
+expectation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/expectation_test.php
+END
+eclipse_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/eclipse_test.php
+END
+reflection_php4_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/reflection_php4_test.php
+END
+acceptance_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/acceptance_test.php
+END
+encoding_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/encoding_test.php
+END
+simpletest_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/simpletest_test.php
+END
+remote_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/remote_test.php
+END
+cookies_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/cookies_test.php
+END
+dumper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/dumper_test.php
+END
+autorun_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/autorun_test.php
+END
+live_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/live_test.php
+END
+bad_test_suite.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/bad_test_suite.php
+END
+detached_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/detached_test.php
+END
+url_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/url_test.php
+END
+form_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/form_test.php
+END
+unit_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/unit_tester_test.php
+END
+frames_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/frames_test.php
+END
+test_with_parse_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/test_with_parse_error.php
+END
+http_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/http_test.php
+END
+interfaces_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/interfaces_test.php
+END
+browser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/browser_test.php
+END
+command_line_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/command_line_test.php
+END
+reflection_php5_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/reflection_php5_test.php
+END
+collector_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/collector_test.php
+END
+socket_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/socket_test.php
+END

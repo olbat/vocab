@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo
+END
+dbo_mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_mysql.php
+END
+dbo_oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_oracle.php
+END
+dbo_firebird.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_firebird.php
+END
+dbo_postgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_postgres.php
+END
+dbo_sybase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_sybase.php
+END
+dbo_db2.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_db2.php
+END
+dbo_odbc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_odbc.php
+END
+dbo_adodb.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_adodb.php
+END
+dbo_mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_mysqli.php
+END
+dbo_mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_mssql.php
+END
+dbo_sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cake/libs/model/datasources/dbo/dbo_sqlite.php
+END

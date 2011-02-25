@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support
+END
+empty_test_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support/empty_test_file.php
+END
+spl_examples.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support/spl_examples.php
+END
+upload_sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support/upload_sample.txt
+END
+test1.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support/test1.php
+END
+latin1_sample
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support/latin1_sample
+END
+supplementary_upload_sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/vendors/simpletest/test/support/supplementary_upload_sample.txt
+END

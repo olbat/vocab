@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/cake/tests/lib
+END
+cli_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cake/tests/lib/cli_reporter.php
+END
+simpletest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cake/tests/lib/simpletest.php
+END
+test_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cake/tests/lib/test_manager.php
+END
+cake_web_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cake/tests/lib/cake_web_test_case.php
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cake/tests/lib/content.php
+END
+cake_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cake/tests/lib/cake_test_case.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cake/tests/lib/footer.php
+END
+xdebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cake/tests/lib/xdebug.php
+END
+code_coverage_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/cake/tests/lib/code_coverage_manager.php
+END
+cake_test_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cake/tests/lib/cake_test_model.php
+END
+cake_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cake/tests/lib/cake_reporter.php
+END
+cake_test_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/cake/tests/lib/cake_test_fixture.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cake/tests/lib/header.php
+END

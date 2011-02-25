@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql
+END
+db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql/db_acl.sql
+END
+sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql/sessions.sql
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql/i18n.php
+END
+db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql/db_acl.php
+END
+sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql/sessions.php
+END
+i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cake/console/libs/templates/skel/config/sql/i18n.sql
+END
